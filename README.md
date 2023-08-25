@@ -1,4 +1,6 @@
- <p>The Music Player React App is a web application built using React.js that allows users to listen to music while enjoying various interactive features. With an intuitive user interface and smooth controls, this app provides an enjoyable music playback experience.</p>
+
+<h1><a href="https://laybeat.netlify.app/">Site Link 🌐</a></h1>
+<br> <p>The Music Player React App is a web application built using React.js that allows users to listen to music while enjoying various interactive features. With an intuitive user interface and smooth controls, this app provides an enjoyable music playback experience.</p>
 
 <h1>Features</h1>
 <li><b>Music Playback:</b>Play, pause, and control the volume of the currently selected track.</li>
