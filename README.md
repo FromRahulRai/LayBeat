@@ -6,3 +6,15 @@
 <li><b>Track Switching:</b>Easily switch between different tracks in the playlist.</li>
 <li><b>User-friendly Interface:</b>The intuitive UI ensures that users can quickly navigate and use the app's features without any hassle.
 </li>
+<br>
+<h1>Technologies Used</h1>
+<li><b>React.js:</b> JavaScript library for building user interfaces.</li>
+<li><b>JSX:</b> Syntax extension for embedding HTML-like code within JavaScript.</li>
+<li><b>CSS:</b> Styling the app and creating visually appealing user interfaces.</li>
+<br>
+<h1>Contact</h1>
+<p>For any inquiries or suggestions:</p>
+<a href="mailto:errahulrai484@gmail.com">Email : Rahul Rai</a> <br>
+<a href="https://www.linkedin.com/in/rahulrai9/">Linkedin : Rahul Rai</a><br>
+<a href="https://www.instagram.com/rahullxraii/">Instagram : Rahul Rai</a><br>
+
